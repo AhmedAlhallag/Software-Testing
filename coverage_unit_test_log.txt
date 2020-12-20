@@ -1,0 +1,12 @@
+Name                            Stmts   Miss  Cover
+---------------------------------------------------
+unit_tests\__init__.py              0      0   100%
+unit_tests\test_Calculator.py      21      0   100%
+unit_tests\test_Course.py          28      3    89%
+unit_tests\test_Files.py           29      0   100%
+unit_tests\test_Intents.py          4      0   100%
+unit_tests\test_Player.py          27      0   100%
+unit_tests\test_Student.py         28      0   100%
+unit_tests\test_fizz_buzz.py       20      0   100%
+---------------------------------------------------
+TOTAL                             157      3    98%

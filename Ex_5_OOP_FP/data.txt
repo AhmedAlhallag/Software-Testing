@@ -1,0 +1,4 @@
+Name,Age,Major,Year
+Ahmed,23,CS
+Mohamed,25,EH
+Omar,19,CS

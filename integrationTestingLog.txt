@@ -1,0 +1,19 @@
+test_calcAvgRaiseError (test_int_Course.TestIntegrationCourse) ... ok
+test_calcAvgReturnsVal (test_int_Course.TestIntegrationCourse) ... ok
+test_checkSampleData (test_int_Course.TestIntegrationCourse) ... ok
+test_objectOfCorrectType (test_int_Course.TestIntegrationCourse) ... ok
+test_searchStudentReturnsNone (test_int_Course.TestIntegrationCourse) ... ok
+test_searchStudentReturnsVal (test_int_Course.TestIntegrationCourse) ... ok
+test_checkRealData (test_int_Files.TestIntegrationFiles) ... ok
+test_objectOfCorrectType (test_int_Files.TestIntegrationFiles) ... ok
+test_readFileInValidFile (test_int_Files.TestIntegrationFiles) ... ok
+test_readFileValidFile (test_int_Files.TestIntegrationFiles) ... ok
+test_getAvg (test_int_Student.TestIntegrationStudent) ... ok
+test_getAvg_v2 (test_int_Student.TestIntegrationStudent) ... ok
+test_objectsAreOfTheCorectType (test_int_Student.TestIntegrationStudent) ... ok
+test_studentHasCourseObj (test_int_Student.TestIntegrationStudent) ... ok
+
+----------------------------------------------------------------------
+Ran 14 tests in 0.002s
+
+OK

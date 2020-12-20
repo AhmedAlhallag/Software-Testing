@@ -1,0 +1,8 @@
+Name                                    Stmts   Miss  Cover
+-----------------------------------------------------------
+integration_tests\__init__.py               0      0   100%
+integration_tests\test_int_Course.py       30      0   100%
+integration_tests\test_int_Files.py        27      0   100%
+integration_tests\test_int_Student.py      38      0   100%
+-----------------------------------------------------------
+TOTAL                                      95      0   100%

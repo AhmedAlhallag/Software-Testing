@@ -1,0 +1,41 @@
+test_add (test_Calculator.TestCalculator) ... ok
+test_div (test_Calculator.TestCalculator) ... ok
+test_mul (test_Calculator.TestCalculator) ... ok
+test_sub (test_Calculator.TestCalculator) ... ok
+test_InfrExists (test_Course.TestCourse) ... ok
+test_calcAvgReturnsVal (test_Course.TestCourse) ... ok
+test_canCreateObj (test_Course.TestCourse) ... ok
+test_searchStudentRuternsNone (test_Course.TestCourse) ... ok
+test_searchStudentRuternsVal (test_Course.TestCourse) ... ok
+test_canCreateObj (test_Files.TestFiles) ... ok
+test_readFile (test_Files.TestFiles) ... ok
+test_sayHello (test_Files.TestFiles) ... ok
+test_writeFile (test_Files.TestFiles) ... ok
+test_FLnameValType (test_Player.TestPlayer) ... ok
+test_canCreateObj (test_Player.TestPlayer) ... ok
+test_createObjWithInvalidParams (test_Player.TestPlayer) ... ok
+test_nickname (test_Player.TestPlayer) ... ok
+test_playerID (test_Player.TestPlayer) ... ok
+test_speedValType (test_Player.TestPlayer) ... ok
+test_canCreateObj (test_Student.TestStudent) ... ok
+test_getAvg (test_Student.TestStudent) ... ok
+test_getAvg_v2 (test_Student.TestStudent) ... ok
+test_setName (test_Student.TestStudent) ... ok
+test_callFizBuzzReturns1WhenPassed1 (test_fizz_buzz.TestFizzBuzz) ... ok
+test_callFizBuzzReturns2WhenPassed2 (test_fizz_buzz.TestFizzBuzz) ... ok
+test_callFizBuzzReturnsBuzzWhenPassed5 (test_fizz_buzz.TestFizzBuzz) ... ok
+test_callFizBuzzReturnsBuzzWhenPassedMultipleOf5 (test_fizz_buzz.TestFizzBuzz) ... ok
+test_callFizBuzzReturnsFizzBuzzWhenPassed15 (test_fizz_buzz.TestFizzBuzz) ... ok
+test_callFizBuzzReturnsFizzWhenPassed3 (test_fizz_buzz.TestFizzBuzz) ... ok
+test_callFizBuzzReturnsFizzWhenPassedMultipleOf3 (test_fizz_buzz.TestFizzBuzz) ... ok
+
+----------------------------------------------------------------------
+Ran 30 tests in 0.016s
+
+OK
+test_method (unit_tests.test_Intents.TestIntents) ... ok
+
+----------------------------------------------------------------------
+Ran 1 test in 0.000s
+
+OK
